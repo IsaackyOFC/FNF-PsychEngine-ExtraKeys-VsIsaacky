@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IsaackyAs_Sets.png">
+	<!-- sprites by Isaacky -->
+	<!-- https://youtube.com/channel/UCVkxSfj9W4jYvc6Ka3JtmhA -->
+	<SubTexture name="Isaacky down0000" x="2557" y="621" width="505" height="600" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="Isaacky down0001" x="22" y="1222" width="505" height="600" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+    <SubTexture name="Isaacky left0000" x="529" y="621" width="505" height="600" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="Isaacky left0001" x="1036" y="621" width="505" height="600" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="Isaacky right0000" x="2557" y="21" width="505" height="600" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="Isaacky right0001" x="22" y="621" width="505" height="600" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="Isaacky up0000" x="1543" y="622" width="505" height="600" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="Isaacky up0001" x="2050" y="621" width="505" height="600" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+    <SubTexture name="Isaacky idle0000" x="22" y="21" width="505" height="599" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky idle0001" x="529" y="21" width="505" height="599" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky idle0002" x="1036" y="21" width="505" height="599" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky idle0003" x="1543" y="21" width="505" height="599" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky idle0004" x="2050" y="21" width="505" height="600" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT IDLE0000" x="529" y="1215" width="500" height="606" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT IDLE0000" x="529" y="1215" width="500" height="606" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT IDLE0001" x="1031" y="1215" width="500" height="606" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT IDLE0002" x="1543" y="1215" width="500" height="606" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT RIGHT0000" x="2050" y="1223" width="500" height="600" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT RIGHT0001" x="2557" y="1222" width="500" height="600" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+    <SubTexture name="Isaacky ALT LEFT0000" x="22" y="1825" width="505" height="598" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="Isaacky ALT LEFT0001" x="529" y="1825" width="505" height="598" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="Isaacky ALT DOWN0000" x="1036" y="1826" width="505" height="598" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="Isaacky ALT DOWN0001" x="1543" y="1825" width="505" height="598" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+</TextureAtlas>
